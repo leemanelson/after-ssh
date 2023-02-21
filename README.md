@@ -1,0 +1,2 @@
+# after-ssh
+scm push
